@@ -1,0 +1,8 @@
+callstack-it contains execution context (lifo)
+primitive--stores in stack and non primitive in heap
+todays assignment question :-
+
+{1.} how javascript actually works behind the scenes(how js runtime works bts on browser)??
+{2.} just in time compilation in detail.??
+{3.} abstract syntax tree role in just in time compilation??
+{4.} scopes in js ??

@@ -1,0 +1,12 @@
+10) Built confidence in using Git from terminal instead of GUI.## Day 2 – Git Commands
+1) Learned what Git is and how it tracks file changes using versions.
+2) Used git init to create a local Git repository.
+3) Used git status to check which files are modified or untracked.
+4) Used git add to stage files before committing.
+5) Used git commit -m "message" to save a snapshot of the project.
+6) Learned that commits act like checkpoints in coding history.
+7) Used git log to view all previous commits.
+8) Understood the difference between working directory, staging area, and repository.
+9) Learned how Git helps in collaboration and backup.
+10) Built confidence in using Git from terminal instead of GUI.
+
