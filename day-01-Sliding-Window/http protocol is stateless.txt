@@ -1,0 +1,5 @@
+http protocol is stateless
+get 
+post 
+put
+delelte
